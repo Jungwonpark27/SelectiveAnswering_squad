@@ -1,0 +1,15 @@
+# ignore Python artifacts
+__pycache__/
+*.py[cod]
+
+# configurations
+*.yaml
+*.json
+
+# data/checkpoints
+data/
+ckpt/
+results/
+
+# OS
+.DS_Store
