@@ -11,7 +11,7 @@ training code, data utilities and experiment results.
 - `data/` – dataset utilities or example inputs
 - `results/` – output logs and evaluation
 - `data_example/` – small sample data for demonstration (see README inside)
-- `results_example/` – sample output files for illustration
+- `results_example/` – sample output files for illustration (includes one JSON eval and one log)
 - `scripts/` – shell and python helper scripts
 - `src/` – source code for training and inference
 
