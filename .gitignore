@@ -7,9 +7,13 @@ __pycache__/
 *.json
 
 # data/checkpoints
+# ignore all data folders by default; keep sample data_example
 data/
+!data_example/
 ckpt/
+# ignore results directory; keep sample results_example
 results/
+!results_example/
 
 # OS
 .DS_Store
